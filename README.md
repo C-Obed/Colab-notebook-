@@ -2,7 +2,15 @@
 Links for various machine learning algorithms 
 1.Linear Regression 
 2.Multiple Linear Regression 
-3.
+3.Cancer Logistic Regression 
+4.SVM
+5.Credit card svm classification
+6.Ensemble techniques 
+7.Logistic Regression AH
+8.Decision tree
+9.PCA Housing price 
+10.K-Means clustering 
+11.Naive Bayes 
 https://colab.research.google.com/drive/1qe43Sh_tKFdAGpueNoCV36QG5ug6Ymtq#scrollTo=x9B9QZLYmwkI
 
 https://colab.research.google.com/drive/108yaTW658_46gmNYaY_YCsjeAjTMAciz#scrollTo=RjjT_EY-EfSJ
@@ -21,10 +29,9 @@ https://colab.research.google.com/drive/1p3UU6x4aLfeu223HnehN-kc_3QmeFWkU#scroll
 
 https://colab.research.google.com/drive/1lsN8tcxrUaeYXgqEYNKLPylS3h1rrntj#scrollTo=HXRkSrjDMffG
 
-https://colab.research.google.com/drive/1lkvUWegtpa-_NBspk10W1LmcGqC-_fTG#scrollTo=ah0HcnyYFeOG
+https://colab.research.google.com/drive/1lkvUWegtpa-_NBspk10W1LmcGqC-_fTG#scrollTo=GjSiXIEPGTti
 
 https://colab.research.google.com/drive/1wOhp4njhdSVRaUFcrMvPflU-qc_BIdza#scrollTo=STWlopO16QZ0
-
 Files
 AmesHousing.csv 
 https://drive.google.com/file/d/11M3mzSmRthdsGfkWnj_EyfjKXuJCbEMn/view?usp=drivesdk
