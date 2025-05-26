@@ -33,23 +33,23 @@ https://colab.research.google.com/drive/1lkvUWegtpa-_NBspk10W1LmcGqC-_fTG#scroll
 
 https://colab.research.google.com/drive/1wOhp4njhdSVRaUFcrMvPflU-qc_BIdza#scrollTo=STWlopO16QZ0
 Files
-AmesHousing.csv 
-https://drive.google.com/file/d/11M3mzSmRthdsGfkWnj_EyfjKXuJCbEMn/view?usp=drivesdk
-
-adult.csv
-https://drive.google.com/file/d/12RsM1cUUy8r5ovMHMQb0xRhQRhMAEg90/view?usp=drivesdk
-
-bank-full.csv
-https://drive.google.com/file/d/12UwWL3GfjsjT9IJoZSEeFaLxasKv8UDB/view?usp=drivesdk
-
-HousingData.csv
-https://drive.google.com/file/d/12VlYgT18c4DQO30eE6gOph1Gl9vtlE0p/view?usp=drivesdk
-
-creditcard.csv
+5.creditcard.csv
 https://drive.google.com/file/d/12_L7aCak0uCp-5qHpsXy8xpLdEPmzAmN/view?usp=drivesdk
 
-Mall_Customers.csv 
+6.bank-full.csv
+https://drive.google.com/file/d/12UwWL3GfjsjT9IJoZSEeFaLxasKv8UDB/view?usp=drivesdk
+
+7.AmesHousing.csv 
+https://drive.google.com/file/d/11M3mzSmRthdsGfkWnj_EyfjKXuJCbEMn/view?usp=drivesdk
+
+8.HousingData.csv
+https://drive.google.com/file/d/12VlYgT18c4DQO30eE6gOph1Gl9vtlE0p/view?usp=drivesdk
+
+9.newhousing.csv
+https://drive.google.com/file/d/12MlBzDq4bPoq8xHaRaJaabx9sZi0VCuN/view?usp=drivesdk
+
+10.Mall_Customers.csv 
 https://drive.google.com/file/d/12RbJx4r1pYQk0TL4Ke3VVWfA5Ium2sB9/view?usp=drivesdk
 
-newhousing.csv
-https://drive.google.com/file/d/12MlBzDq4bPoq8xHaRaJaabx9sZi0VCuN/view?usp=drivesdk
+11.adult.csv
+https://drive.google.com/file/d/12RsM1cUUy8r5ovMHMQb0xRhQRhMAEg90/view?usp=drivesdk
