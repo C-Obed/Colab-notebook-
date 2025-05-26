@@ -1,38 +1,52 @@
 # Colab-notebook-
 Links for various machine learning algorithms 
+
 1.Linear Regression 
+
 2.Multiple Linear Regression 
+
 3.Cancer Logistic Regression 
+
 4.SVM
+
 5.Credit card svm classification
+
 6.Ensemble techniques 
+
 7.Logistic Regression AH
+
 8.Decision tree
+
 9.PCA Housing price 
+
 10.K-Means clustering 
+
 11.Naive Bayes 
-https://colab.research.google.com/drive/1qe43Sh_tKFdAGpueNoCV36QG5ug6Ymtq#scrollTo=x9B9QZLYmwkI
 
-https://colab.research.google.com/drive/108yaTW658_46gmNYaY_YCsjeAjTMAciz#scrollTo=RjjT_EY-EfSJ
+1.https://colab.research.google.com/drive/1qe43Sh_tKFdAGpueNoCV36QG5ug6Ymtq#scrollTo=x9B9QZLYmwkI
 
-https://colab.research.google.com/drive/1l_cGvVNhjidp0uuSS4od2WzxKcksFfsg#scrollTo=S-kruC-bsIZ1
+2.https://colab.research.google.com/drive/108yaTW658_46gmNYaY_YCsjeAjTMAciz#scrollTo=RjjT_EY-EfSJ
 
-https://colab.research.google.com/drive/1FFcEMVLOhfQ34ns_9Im9GqG1fKjdV-rV#scrollTo=5EoEKLAttTw9
+3.https://colab.research.google.com/drive/1l_cGvVNhjidp0uuSS4od2WzxKcksFfsg#scrollTo=S-kruC-bsIZ1
 
-https://colab.research.google.com/drive/17n7oKsrFZQKYNRROZnVnFut7rK10PHuV#scrollTo=CD1yapry8MUG
+4.https://colab.research.google.com/drive/1FFcEMVLOhfQ34ns_9Im9GqG1fKjdV-rV#scrollTo=5EoEKLAttTw9
 
-https://colab.research.google.com/drive/1H3UjQIOcnDbW-gKWLqpKNj0bkXiga9OF#scrollTo=l_EMT0LlUWXp
+5.https://colab.research.google.com/drive/17n7oKsrFZQKYNRROZnVnFut7rK10PHuV#scrollTo=CD1yapry8MUG
 
-https://colab.research.google.com/drive/1X7TZl3p7s3BOBi0s6iXVGfdtZL7mgWeP#scrollTo=AUFMvrUx_l_d
+6.https://colab.research.google.com/drive/1H3UjQIOcnDbW-gKWLqpKNj0bkXiga9OF#scrollTo=l_EMT0LlUWXp
 
-https://colab.research.google.com/drive/1p3UU6x4aLfeu223HnehN-kc_3QmeFWkU#scrollTo=aooDti03-LTb
+7.https://colab.research.google.com/drive/1X7TZl3p7s3BOBi0s6iXVGfdtZL7mgWeP#scrollTo=AUFMvrUx_l_d
 
-https://colab.research.google.com/drive/1lsN8tcxrUaeYXgqEYNKLPylS3h1rrntj#scrollTo=HXRkSrjDMffG
+8.https://colab.research.google.com/drive/1p3UU6x4aLfeu223HnehN-kc_3QmeFWkU#scrollTo=aooDti03-LTb
 
-https://colab.research.google.com/drive/1lkvUWegtpa-_NBspk10W1LmcGqC-_fTG#scrollTo=GjSiXIEPGTti
+9.https://colab.research.google.com/drive/1lsN8tcxrUaeYXgqEYNKLPylS3h1rrntj#scrollTo=HXRkSrjDMffG
 
-https://colab.research.google.com/drive/1wOhp4njhdSVRaUFcrMvPflU-qc_BIdza#scrollTo=STWlopO16QZ0
+10.https://colab.research.google.com/drive/1lkvUWegtpa-_NBspk10W1LmcGqC-_fTG#scrollTo=GjSiXIEPGTti
+
+11.https://colab.research.google.com/drive/1wOhp4njhdSVRaUFcrMvPflU-qc_BIdza#scrollTo=STWlopO16QZ0
+
 Files
+
 5.creditcard.csv
 https://drive.google.com/file/d/12_L7aCak0uCp-5qHpsXy8xpLdEPmzAmN/view?usp=drivesdk
 
