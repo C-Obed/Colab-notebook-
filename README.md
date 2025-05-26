@@ -11,4 +11,11 @@ https://colab.research.google.com/drive/1p3UU6x4aLfeu223HnehN-kc_3QmeFWkU#scroll
 https://colab.research.google.com/drive/1lsN8tcxrUaeYXgqEYNKLPylS3h1rrntj#scrollTo=T9Q1_Vj6MWk7
 https://colab.research.google.com/drive/1lkvUWegtpa-_NBspk10W1LmcGqC-_fTG#scrollTo=ah0HcnyYFeOG
 Files
+Ames housing
 https://drive.google.com/file/d/11M3mzSmRthdsGfkWnj_EyfjKXuJCbEMn/view?usp=drivesdk
+https://drive.google.com/file/d/12RsM1cUUy8r5ovMHMQb0xRhQRhMAEg90/view?usp=drivesdk
+https://drive.google.com/file/d/12UwWL3GfjsjT9IJoZSEeFaLxasKv8UDB/view?usp=drivesdk
+https://drive.google.com/file/d/12VlYgT18c4DQO30eE6gOph1Gl9vtlE0p/view?usp=drivesdk
+https://drive.google.com/file/d/12_L7aCak0uCp-5qHpsXy8xpLdEPmzAmN/view?usp=drivesdk
+https://drive.google.com/file/d/12RbJx4r1pYQk0TL4Ke3VVWfA5Ium2sB9/view?usp=drivesdk
+https://drive.google.com/file/d/12MlBzDq4bPoq8xHaRaJaabx9sZi0VCuN/view?usp=drivesdk
